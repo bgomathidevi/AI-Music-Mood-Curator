@@ -1,5 +1,7 @@
 
 Spotify Mood Playlist Curator
+
+
 Overview
 The Spotify Mood Playlist Curator is a simple web application built using Streamlit and Spotipy (Spotify Web API wrapper) that helps users find playlists based on their mood or activity. Users can input a mood (e.g., "chill", "workout", "study") and the app will return playlists along with detailed track information such as danceability, energy, and valence. It also saves the retrieved data into a CSV file for further analysis.
 
@@ -24,11 +26,6 @@ Playlist Data: The app will fetch playlists related to the mood and display key 
 Export: Playlist details, including track names, artists, and audio features, will be saved in a CSV file for easy reference.
 
 
-Features in Progress
-Adding more filters for better playlist recommendations.
-Integration with custom playlist creation options for users.
-License
-This project is licensed under the MIT License.
 
 Contact
 For any inquiries or feedback, please reach out to:
